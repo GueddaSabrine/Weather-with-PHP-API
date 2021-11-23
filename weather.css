@@ -1,0 +1,26 @@
+body {
+  background-image: url('./img/cloud.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* pageIndex.php */
+.cardweather {
+  margin-top: 5rem;
+}
+
+/* pageLogin.php */
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.formulary {
+  margin-left: 40rem;
+}
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
